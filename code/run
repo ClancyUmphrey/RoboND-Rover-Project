@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# pass <path_to_folder> argument into script to record images of run.
+
+# Run the autonomy code:
+python drive_rover.py $1 #&
+
+# Run the simulator:
+#cd ../../Roversim && ./run &

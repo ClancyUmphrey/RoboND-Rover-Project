@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Run the jupyter notebook:
+jupyter notebook Rover_Project_Test_Notebook.ipynb
